@@ -1,0 +1,4 @@
+*.DS_Store
+*.pyc
+collaborativefiltering/dataset/10000.txt
+collaborativefiltering/dataset/song_data.csv
